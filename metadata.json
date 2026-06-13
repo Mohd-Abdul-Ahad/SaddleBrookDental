@@ -1,0 +1,6 @@
+{
+  "name": "Saddle Brook Dentist",
+  "description": "A fully polished, interactive premium landing page for Saddle Brook Dentist in Bergen County, NJ with direct booking, patient forms, and rich testimonials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
